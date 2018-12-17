@@ -1,0 +1,10 @@
+title = "Style Savvy: Styling Star"
+description = "Lifestyle, Simulation - Known as Girl's Mode in Japan, gameplay involves running a fashion boutique that is bequeathed to the player by their uncle Tim. The player is responsible for choosing fashion items or full outfits that fit the specifications given by the customer. If the player's choices fit the customer's requests, the customer will purchase the item or items and build a relationship with the player over time through these transactions."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001C2500"
+region = "usa"
+release_date = "2017-12-25"
